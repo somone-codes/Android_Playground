@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Playground</string>
+    <string name="welcome_page_top_left_welcome_text">Welcome to Android Playground</string>
+    <string name="welcome_page_bottom__right_exit_message">Good Bye</string>
+    <string name="welcome_page_cupcake_img_desc">Cup cake</string>
+    <string name="welcome_page_button_dec">Click here you curious cat.</string>
+    <string name="welcome_page_button_top_text">Want to know how old I am?</string>
+    <string name="welcome_page_age_reveal_correct_wrong_pic">Lets get started for guesing the age and result of guessing
+        !</string>
+</resources>
